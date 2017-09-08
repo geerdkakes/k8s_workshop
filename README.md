@@ -18,6 +18,8 @@ The only thing installed on your local computer is a browser to do this workshop
 
 For all notes are handed out with the correct URL, userid and passwd.
 
+The slides with this workshop can be found at: https://www.slideshare.net/secret/2NQIgW0xrw4b1q
+
 ## 1 Getting information on the cluster
 
 Browse to the provided URL and login to the shell with the provided credentials. 
